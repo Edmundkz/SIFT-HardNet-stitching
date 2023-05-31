@@ -1,0 +1,5 @@
+../img_cut/3366c.bmp
+../img_cut/3367c.bmp
+../img_cut/3368c.bmp
+../img_cut/3369c.bmp
+../img_cut/3370c.bmp
